@@ -43,6 +43,7 @@ body{
 	top:100%;
 	width:100%;
 	box-shadow: 0 0.2px 2px black;
+	box-shadow: 0px 4px 20px -2px black;
 }
 .photo-album ul{
 	display:flex;
@@ -54,7 +55,7 @@ body{
 }
 .photo-album ul li{
 	border: 2px solid lightgreen;
-	box-shadow: -1px 0 10px lightgreen;
+	
 }
 
 .product__info{
